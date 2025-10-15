@@ -27,9 +27,10 @@ public class ScannerExample {
 }
 
 
-//E:\OOPS\Assignment 1 \1 scanner\ScannerExample.java
+//E:\OOPS\Assignment 1 \scanner\ScannerExample.java
 //Enter your name: Sakthivelan
 //Enter your age: 22
 //Enter your favorite color: Red
 
 //Hello, Sakthivelan! You are 22 years old and your favorite color is Red.
+
