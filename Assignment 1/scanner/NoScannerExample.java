@@ -29,6 +29,7 @@ public class NoScannerExample {
     }
 }
 
-//E:\OOPS\Assignment 1 main\1 scanner\NoScannerExample.java
+//E:\OOPS\Assignment 1 \1 scanner\NoScannerExample.java
 //Enter your city: Chennai
+
 //You live in Chennai.
