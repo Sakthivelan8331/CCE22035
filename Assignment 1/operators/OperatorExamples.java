@@ -40,7 +40,7 @@ public class OperatorExamples {
 }
 
 
-//E:\OOPS\Assignment 1 main\2 Operators\OperatorExamples.java
+//E:\OOPS\Assignment 1 \2 Operators\OperatorExamples.java
 //Enter value for a: 3
 //Enter value for b: 4
 //Addition: 7
@@ -55,3 +55,4 @@ public class OperatorExamples {
 //Logical AND: false
 //Logical OR: false
 //Logical NOT of condition1: true
+
